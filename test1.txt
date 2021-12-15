@@ -5,3 +5,6 @@ pierwszy commit przez VSCode
 commit nr2 przez VSCode
 
 commit nr3 przez VSCode error
+
+commit nr3 by www
+
