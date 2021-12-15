@@ -2,3 +2,4 @@
 
 - zmiana wykonana przez www
 - zmiana nr2 wykonana przez www
+- zmiana nr3 wykonana przez www
