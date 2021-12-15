@@ -3,3 +3,5 @@ test1 pierwszy commit
 pierwszy commit przez VSCode
 
 commit nr2 przez VSCode
+
+commit nr3 by www
