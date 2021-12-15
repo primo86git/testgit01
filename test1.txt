@@ -8,3 +8,4 @@ commit nr3 przez VSCode error
 
 commit nr3 by www
 
+commit nr4 by VCcode
